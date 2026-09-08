@@ -4,17 +4,17 @@
 
 각 주차는 동일한 구성을 따릅니다: 짧은 README, 4일 분량의 간결한 학습 노트, 그리고 4일치 내용을 모두 담은 실행 가능한 주피터 노트북 1개.
 
-| 주차 | 주제 |
+| 순서 | 주제 |
 |---|---|
-| [week1](week1/) | 컴퓨터 비전 기초 & 시계열 (CNN vs. ViT, 디퓨전 이미지 생성, 분해 & 예측) |
-| [week2](week2/) | LLM 내부 구조, 오디오 AI & 샌드박싱 (토큰화/어텐션/KV 캐시, 바이/크로스 인코더, ASR/TTS, 코드 실행 격리) |
-| [week3](week3/) | 멀티모달 문서 AI (비전-언어 추출, 구조화 JSON, PDF 요약, HTML 표 파싱) |
-| [week4](week4/) | RAG 기초 (LLM의 한계, 임베딩 & 코사인 유사도, 벡터 데이터베이스, 청킹 & 근거 기반 답변) |
-| [week6](week6/) | 웹 검색 기반 리서치 (검색 API, 관련도 재정렬, 근거 기반 리서치 파이프라인, 도구 평가) |
-| [week7](week7/) | 에이전틱 AI: ReAct 루프, 로컬 LLM & 안전장치 (에이전트 프레임워크, 양자화, 안전장치) |
-| [week8](week8/) | LangChain 프레임워크 기초 (LCEL, PromptTemplate, 도구 사용 에이전트, 대화 메모리) |
+| [1st_week](1st_week/) | 컴퓨터 비전 기초 & 시계열 (CNN vs. ViT, 디퓨전 이미지 생성, 분해 & 예측) |
+| [2nd_week](2nd_week/) | LLM 내부 구조, 오디오 AI & 샌드박싱 (토큰화/어텐션/KV 캐시, 바이/크로스 인코더, ASR/TTS, 코드 실행 격리) |
+| [3rd_week](3rd_week/) | 멀티모달 문서 AI (비전-언어 추출, 구조화 JSON, PDF 요약, HTML 표 파싱) |
+| [4th_week](4th_week/) | RAG 기초 (LLM의 한계, 임베딩 & 코사인 유사도, 벡터 데이터베이스, 청킹 & 근거 기반 답변) |
+| [6th_week](6th_week/) | 웹 검색 기반 리서치 (검색 API, 관련도 재정렬, 근거 기반 리서치 파이프라인, 도구 평가) |
+| [7th_week](7th_week/) | 에이전틱 AI: ReAct 루프, 로컬 LLM & 안전장치 (에이전트 프레임워크, 양자화, 안전장치) |
+| [8th_week](8th_week/) | LangChain 프레임워크 기초 (LCEL, PromptTemplate, 도구 사용 에이전트, 대화 메모리) |
 
-같은 주제를 다루는 풀스택 제품 포트폴리오의 별도 컴패니언 레포도 있습니다 — [`ai-products`](https://github.com/ShaunKim91/ai-products) 참고.
+같은 주제를 다루는 풀스택 제품 포트폴리오의 별도 컴패니언 레포도 있습니다 — [`applied-ai-builds`](https://github.com/ShaunKim91/applied-ai-builds) 참고.
 
 ## 라이선스
 
