@@ -10,9 +10,9 @@ Each week follows the same shape: a short README, 4 days of concise lesson notes
 | [week2](week2/) | LLM Internals, Audio AI & Sandboxing (tokenization/attention/KV cache, bi- vs. cross-encoders, ASR/TTS, code-execution isolation) |
 | [week3](week3/) | Multimodal Document AI (vision-language extraction, structured JSON, PDF summarization, HTML table parsing) |
 | [week4](week4/) | RAG Fundamentals (LLM limits, embeddings & cosine similarity, vector databases, chunking & grounded answers) |
-| [week5_1](week5_1/) | Web-Search-Augmented Research (search APIs, relevance re-ranking, grounded research pipelines, tool evaluation) |
-| [week5_2](week5_2/) | Agentic AI: ReAct Loops, Local LLMs & Safety (agent frameworks, quantization, guardrails) |
-| [week6_1](week6_1/) | LangChain Framework Basics (LCEL, PromptTemplate, tool-using agents, conversational memory) |
+| [week6](week6/) | Web-Search-Augmented Research (search APIs, relevance re-ranking, grounded research pipelines, tool evaluation) |
+| [week7](week7/) | Agentic AI: ReAct Loops, Local LLMs & Safety (agent frameworks, quantization, guardrails) |
+| [week8](week8/) | LangChain Framework Basics (LCEL, PromptTemplate, tool-using agents, conversational memory) |
 
 This is a companion to a separate portfolio of full-stack products built around these same topics — see [`ai-products`](https://github.com/ShaunKim91/ai-products).
 

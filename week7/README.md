@@ -9,4 +9,4 @@ A four-day unit on turning language models into agents — hand-rolling a ReAct 
 | 3 | Running agents on local LLMs; quantization | [D3/daily/Day3_local-llms-quantization.md](D3/daily/Day3_local-llms-quantization.md) |
 | 4 | Agent safety mechanisms | [D4/daily/Day4_agent-safety-mechanisms.md](D4/daily/Day4_agent-safety-mechanisms.md) |
 
-Concepts notebook: [concepts/Week5_2_Concepts.ipynb](concepts/Week5_2_Concepts.ipynb)
+Concepts notebook: [concepts/Week7_Concepts.ipynb](concepts/Week7_Concepts.ipynb)

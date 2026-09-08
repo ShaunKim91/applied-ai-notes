@@ -1,4 +1,4 @@
-# Week 5.1 — Web-Search-Augmented Research
+# Week 6 — Web-Search-Augmented Research
 
 This week covers grounding LLM answers in live web search results: calling a search API, re-ranking hits with embeddings, building a cited research pipeline, and evaluating new AI tools.
 
@@ -9,4 +9,4 @@ This week covers grounding LLM answers in live web search results: calling a sea
 | 3 | Search + LLM grounded research | [D3/daily/Day3_grounded-research-pipeline.md](D3/daily/Day3_grounded-research-pipeline.md) |
 | 4 | AI tool evaluation framework | [D4/daily/Day4_ai-tool-evaluation-framework.md](D4/daily/Day4_ai-tool-evaluation-framework.md) |
 
-Concepts notebook: [concepts/Week5_1_Concepts.ipynb](concepts/Week5_1_Concepts.ipynb)
+Concepts notebook: [concepts/Week6_Concepts.ipynb](concepts/Week6_Concepts.ipynb)
